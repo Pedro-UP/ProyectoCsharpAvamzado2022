@@ -1,0 +1,7 @@
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\MiLibreria\obj\Debug\MiLibreria.csprojAssemblyReference.cache
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\MiLibreria\obj\Debug\MiLibreria.pdb
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\MiLibreria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\MiLibreria\obj\Debug\MiLibreria.csproj.CopyComplete
