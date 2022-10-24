@@ -1,0 +1,110 @@
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ProyectoCsharpAvamzado2022.exe.config
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ProyectoCsharpAvamzado2022.exe
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ProyectoCsharpAvamzado2022.pdb
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.csprojAssemblyReference.cache
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.Properties.Resources.resources
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.csproj.GenerateResource.cache
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.exe
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.pdb
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\MiLibreria.dll
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\MiLibreria.pdb
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.csproj.CopyComplete
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.VentanaAdmin.resources
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.VentanaLogin.resources
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.VentanaUsuario.resources
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.FormBase.resources
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.Consultas.resources
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.Mantenimiento.resources
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.Procesos.resources
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.ContenedorPrincipal.resources
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.MantenimientoCliente.resources
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.MantenimientoProducto.resources
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.ConsultarClientes.resources
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.ConsultasProductos.resources
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.Facturacion.resources
+C:\Users\chedraui\Documents\visual studio\Nuevos Programas C#\2022 Repaso\Windows Form\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.Reporte.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ProyectoCsharpAvamzado2022.exe.config
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ProyectoCsharpAvamzado2022.exe
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ProyectoCsharpAvamzado2022.pdb
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\MiLibreria.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\EnvDTE.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\stdole.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\Microsoft.MSXML.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\MiLibreria.pdb
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.csprojAssemblyReference.cache
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.ConsultarClientes.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.Consultas.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.ConsultasProductos.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.ContenedorPrincipal.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.Facturacion.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.FormBase.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.Mantenimiento.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.MantenimientoCliente.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.MantenimientoProducto.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.Procesos.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.Reporte.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.VentanaAdmin.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.VentanaLogin.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.Properties.Resources.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.VentanaUsuario.resources
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.csproj.GenerateResource.cache
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.csproj.CopyComplete
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.exe
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\ProyectoCsharpAvamzado2022.pdb
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\RdlCompile.cache
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\ProyectoCsharpAvamzado2022\obj\Debug\RdlCompile.compiled

@@ -1,0 +1,7 @@
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\MiLibreria\bin\Release\MiLibreria.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\MiLibreria\bin\Release\MiLibreria.pdb
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\MiLibreria\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\MiLibreria\obj\Release\MiLibreria.csprojAssemblyReference.cache
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\MiLibreria\obj\Release\MiLibreria.csproj.CopyComplete
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\MiLibreria\obj\Release\MiLibreria.dll
+C:\Users\chedraui\Documents\visual studio\ProyectoCsharpAvamzado2022\MiLibreria\obj\Release\MiLibreria.pdb
